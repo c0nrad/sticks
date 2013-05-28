@@ -1,9 +1,9 @@
 Sticks
 =========
 
-![battleTanks Gameplay](https://raw.github.com/c0nrad/sticks/master/intro.png)
+![Sticks Intro](https://raw.github.com/c0nrad/sticks/master/images/intro.png)
 
-Sticks is a NodeJS game for playing the Game Sticks.
+Sticks is a NodeJS game for playing the game Sticks.
 
 The Game
 -
